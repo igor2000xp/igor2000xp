@@ -14,7 +14,7 @@ GitHub: [https://github.com/igor2000xp](https://github.com/igor2000xp) \
 Mobile: +375-33-341-78-51\
 e-mail: igorring@gmail.com\
 Discord: igor2000xp\
-[CV on Linked-n](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
+[CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
 
 ## Summary
 
