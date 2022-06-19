@@ -55,19 +55,19 @@ function simpleMultiplication(number) {
 
 ### My projects
 
-![My Angular project](/images/board.png)
+![My Angular project](https://igor2000xp.github.io/rsschool-cv/images/board.png)
 
 * Angular final group project ["Project Management"](https://project-management-app-group-one.netlify.app/welcome)
 
 ********
 
-![My RS-Lang project](/images/rs-lang.png)
+![My RS-Lang project](https://igor2000xp.github.io/rsschool-cv/images/rs-lang.png)
 
-* React final group Stage 2 project  ["RS-Lang dictionary"](https://github.com/igor2000xp/rsschool-cv/tree/gh-pages)
+* React final group Stage 2 project  ["RS-Lang dictionary"](https://valery91-qw.github.io/rslang/)
 
 ********
 
-![My Museum project](/images/museum.png)
+![My Museum project](https://igor2000xp.github.io/rsschool-cv/images/museum.png)
 
 * Museum Stage 1 project  ["Museum project"](https://rolling-scopes-school.github.io/igor2000xp-JSFE2021Q3/museum-dom/)
 
@@ -138,16 +138,16 @@ ___My responsibilities included:___
 * Project management methodologies. Introduction to Scrum, ITVDN (2021)
 * JavaScript/Front-end. Stages are 1,2,3 Angular of RS Schools Course.
 
-### My [video presentation](https://youtu.be/LKejOA4CCp0) in English
+### My [video presentation](https://www.youtube.com/watch?v=LKejOA4CCp0) in English
 
-![YouTube video](/images/video-screen.png)
+![YouTube video](https://igor2000xp.github.io/rsschool-cv/images/video-screen.png)
 
 ********
 
 ### Languages
 
 * English - B2 - Upper-Intermediate.
-  ![Certificate](/images/99932032f710fe345fe82623e7aca818.jpg)
+  ![Certificate](https://igor2000xp.github.io/rsschool-cv/images/99932032f710fe345fe82623e7aca818.jpg)
 
 
 <!--
