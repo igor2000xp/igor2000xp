@@ -18,8 +18,10 @@ Discord: igor2000xp\
 
 ## Summary
 
-I have good Mac/Win/Linux user skills. I have experience in administration and team management, including IT. I completed the JavaScript/FrontEnd, Angular courses and decided to repeat and take the node.JS course to strengthen my knowledge. \
-I have a B2 level of English, communication skills, ability to negotiate, knowledge of project management techniques, accounting. Experience in creating and maintaining sites. Interested in positions JavaScript/FrontEnd developer.
+I completed the JavaScript/FrontEnd, Angular courses and decided to repeat and take the node.JS course to strengthen my knowledge. \
+I have a B2 level of English, communication skills, ability to negotiate, knowledge of project management techniques, accounting. Experience in creating and maintaining sites. Interested in position JavaScript/FrontEnd developer.
+
+I have good Mac/Win/Linux user skills. I have experience in administration and team management, including IT. 
 
 I love to program. I would like to gain knowledge of Javascript front-end developer.\
 __I love writing programming code and I want to be perfect in Javascript and Frontend stack at all.__
