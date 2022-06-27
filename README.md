@@ -70,6 +70,7 @@ function simpleMultiplication(number) {
 ![My Museum project](https://igor2000xp.github.io/rsschool-cv/images/museum.png)
 
 * Museum Stage 1 project  ["Museum project"](https://rolling-scopes-school.github.io/igor2000xp-JSFE2021Q3/museum-dom/)
+* Project on my [GitHub](https://github.com/igor2000xp/-igor2000xp-JSFE2021Q3-mirror/tree/museum-dom)
 
 ********
 
