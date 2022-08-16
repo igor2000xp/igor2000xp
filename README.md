@@ -132,12 +132,13 @@ ___My responsibilities included:___
   _Engineer of electronic means, (1981 - 1986)_
 
 #### Courses
-
+* __JavaScript/Front-end. Stages are 1,2,3 Angular of RS Schools__ Course 2021Q3.
+* __NodeJS RS Schools__ Course 2022Q2
 * School "Dragon-English" (March 2021)
 * CS50's Introduction to Computer Science Harvard College (2021)
 * Java. Fundamentals ЕРАМ (2021)
 * Project management methodologies. Introduction to Scrum, ITVDN (2021)
-* JavaScript/Front-end. Stages are 1,2,3 Angular of RS Schools Course.
+
 
 ### My [video presentation](https://www.youtube.com/watch?v=LKejOA4CCp0) in English
 
