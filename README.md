@@ -139,6 +139,12 @@ ___My responsibilities included:___
 * Java. Fundamentals ЕРАМ (2021)
 * Project management methodologies. Introduction to Scrum, ITVDN (2021)
 
+#### Sertificates
+[JavaScript/Front-end. Stages are 1,2,3 Angular of RS Schools](https://app.rs.school/certificate/ys6h2ai2)
+![Screen Shot 2022-08-16 at 04 51 46](https://user-images.githubusercontent.com/21989277/184782090-2459a3d5-9e32-45da-905c-e171ca405f94.png)
+
+[NodeJS RS Schools Course 2022Q2](https://app.rs.school/certificate/lg52lo7c)
+![Screen Shot 2022-08-16 at 04 57 18](https://user-images.githubusercontent.com/21989277/184782428-b95e081c-f87a-4fb9-934b-a016d8246933.png)
 
 ### My [video presentation](https://www.youtube.com/watch?v=LKejOA4CCp0) in English
 
