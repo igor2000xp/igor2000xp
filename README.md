@@ -17,7 +17,7 @@ Discord: igor2000xp\
 [CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
 
 ## Summary
-I completed JavaScript/FrontEnd, Angular courses and decided to take the node.JS course and successfully completed this course as well. I got rich experience and a lot of practice. \
+I completed JavaScript/FrontEnd, Angular courses and decided to take the node.JS course and successfully completed this course as well. I got rich experience and a lot of practice.
 
 I have a B2 level of English, communication skills, ability to negotiate, knowledge of project management techniques, accounting. 
 Experience in creating and maintaining sites. Interested in position JavaScript/FrontEnd developer Junior+/Middle.
