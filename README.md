@@ -12,7 +12,7 @@
 
 GitHub: [https://github.com/igor2000xp](https://github.com/igor2000xp) 
 Mobile: +48 452 414 616\
-e-mail: igorring@gmail.com\
+e-mail: igor.aniskevich.pol@gmail.com\
 Discord: igor2000xp\
 [CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
 
