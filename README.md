@@ -23,15 +23,19 @@ With a proven track record of successfully managing teams of diverse individuals
    As a mentor at RS School, I take pride in leading a team of four students and imparting my knowledge of JavaScript fundamentals. In addition, I continuously strive to enhance my own skills by conducting student interviews and providing guidance to others.
 ## Technical skills:
 WEB-development, JavaScript, TypeScript, HTML5, CSS3, Git, GitHub, WebPack, SCSS, CI/CD,
-   -Angular (Routing, NgRx, RxJS, Angular Material),
-   -React (Redux, Redux Toolkit, GraphQL Client), and
-   -Node.JS (Express.JS, Nest.JS, CRUD-API, PostgreSQL and ORM, Authentication, and Authorization, Docker, REST API, GraphQL, Prisma, Postman, Swagger, Json).
-   -familiar with AWS Amazon cloud technology.
-   -Scrum, Kanban, Jira, Trello
-GitHub: https://github.com/igor2000xp
+   * Angular (Routing, NgRx, RxJS, Angular Material),
+   * React (Redux, Redux Toolkit, GraphQL Client), and
+   * Node.JS (Express.JS, Nest.JS, CRUD-API, PostgreSQL and ORM, Authentication, and Authorization, Docker, REST API, GraphQL, Prisma, Postman, Swagger, Json).
+   * familiar with AWS Amazon cloud technology.
+   * Scrum, Kanban, Jira, Trello
+
 I have a B2 level in English. Currently, live in Warsaw, but I am ready to move all over Poland.
+
+GitHub: https://github.com/igor2000xp
+
 e-mail: igor.aniskevich.pol@gmail.com
-Skype: igor2000xp
+
+Skype: igor2000xp\
 Telegram: @IgorJouii
 
 
@@ -41,15 +45,6 @@ Telegram: @IgorJouii
 * Team leader
 * Very communicative
 * Very creative
-
-### Code sample
-
-```JavaScript
-function simpleMultiplication(number) {
-    // your code........
-  return number % 2 ?  number * 9 : number * 8;
-}
-```
 
 ********
 
