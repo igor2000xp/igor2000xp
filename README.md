@@ -18,24 +18,22 @@ Discord: igor2000xp\
 [CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich/)
 
 ## Summary
-I completed JavaScript/FrontEnd, Angular courses and decided to take the node.JS course and successfully completed this course as well. I got rich experience and a lot of practice.
+With a proven track record of successfully managing teams of diverse individuals, I possess a unique blend of leadership and interpersonal skills. My experience in resolving team conflicts has honed my ability to work effectively as both a team leader, a supportive team member and a subordinate too.
+   During my time at RS School, I honed my technical skills by developing single-page applications using various JavaScript frameworks and gaining hands-on experience by completing a variety of projects.
+   As a mentor at RS School, I take pride in leading a team of four students and imparting my knowledge of JavaScript fundamentals. In addition, I continuously strive to enhance my own skills by conducting student interviews and providing guidance to others.
+## Technical skills:
+WEB-development, JavaScript, TypeScript, HTML5, CSS3, Git, GitHub, WebPack, SCSS, CI/CD,
+   -Angular (Routing, NgRx, RxJS, Angular Material),
+   -React (Redux, Redux Toolkit, GraphQL Client), and
+   -Node.JS (Express.JS, Nest.JS, CRUD-API, PostgreSQL and ORM, Authentication, and Authorization, Docker, REST API, GraphQL, Prisma, Postman, Swagger, Json).
+   -familiar with AWS Amazon cloud technology.
+   -Scrum, Kanban, Jira, Trello
+GitHub: https://github.com/igor2000xp
+I have a B2 level in English. Currently, live in Warsaw, but I am ready to move all over Poland.
+e-mail: igor.aniskevich.pol@gmail.com
+Skype: igor2000xp
+Telegram: @IgorJouii
 
-I have a B2 level of English, communication skills, ability to negotiate, knowledge of project management techniques, accounting. 
-Experience in creating and maintaining sites. Interested in position JavaScript/FrontEnd developer Junior+/Middle.
-
-I have good Mac/Win/Linux user skills. I have experience in administration and team management, including IT. 
-
-I love to program. I would like to gain knowledge of Javascript front-end developer.\
-__I love writing programming code and I want to be perfect in Javascript and Frontend stack at all.__
-
-### Hard skills
-
-* FrontEnd JavaScript, TypeScript, Angular, React,
-* node.JS, HTML, CSS, basic OOP,
-* Git, Webpack,
-* JavaScript, node.JS,
-* Figma, Photoshop,
-* VS Code, WebStorm, IntelliJ IDEA, Eclipse, Sublime.
 
 ### Soft skills
 
