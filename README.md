@@ -101,15 +101,6 @@ I am expanding my skills in the FrontEnd area. I have mastered a diverse set of 
 Skills: TypeScript · JavaScript · English · Git · CSS · CSS3 · SCSS · HTML5 · Object-Oriented Programming (OOP)
 
 ********
-
-
-
- logo
-Frontend Developer, JavaScript, Angular, NodeJS
-BelVGBelVG Nov 2021 - Present · 1 yr 5 mosNov 2021 - Present · 1 yr 5 mos Krakowski, Małopolskie, Poland · RemoteKrakowski, Małopolskie, Poland · Remote
-
-        Achievements: Development of single-page applications. I am expanding my skills in the FrontEnd area. I have mastered a diverse set of technical skills.
-        Skills: Angular Material · Angular · React.js · Node.js · English
         
 #### National Academy of Sciences of Belarus, Head of Marketing Department
 
