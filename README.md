@@ -18,9 +18,16 @@ Discord: igor2000xp\
 [CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich/)
 
 ## Summary
-With a proven track record of successfully managing teams of diverse individuals, I possess a unique blend of leadership and interpersonal skills. My experience in resolving team conflicts has honed my ability to work effectively as both a team leader, a supportive team member and a subordinate too.
-   During my time at RS School, I honed my technical skills by developing single-page applications using various JavaScript frameworks and gaining hands-on experience by completing a variety of projects.
-   As a mentor at RS School, I take pride in leading a team of four students and imparting my knowledge of JavaScript fundamentals. In addition, I continuously strive to enhance my own skills by conducting student interviews and providing guidance to others.
+With a proven track record of successfully managing teams of diverse individuals,\
+I possess a unique blend of leadership and interpersonal skills.\
+My experience in resolving team conflicts has honed my ability to work effectively as both a team leader,\
+a supportive team member and a subordinate too.\
+   During my time at RS School, I honed my technical skills by developing single-page applications using\
+   various JavaScript frameworks and gaining hands-on experience by completing a variety of projects.
+   
+   As a mentor at RS School,\
+   I take pride in leading a team of four students and imparting my knowledge of JavaScript fundamentals.\
+   In addition, I continuously strive to enhance my own skills by conducting student interviews and providing guidance to others.
 ## Technical skills:
 WEB-development, JavaScript, TypeScript, HTML5, CSS3, Git, GitHub, WebPack, SCSS, CI/CD,
    * Angular (Routing, NgRx, RxJS, Angular Material),
