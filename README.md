@@ -76,7 +76,20 @@ Telegram: @IgorJouii
 
 ### My experience
 
-#### Unitary Enterprise "Pilot Production of the Institute of Bioorganic Chemistry National Academy of Sciences of Belarus", Head of Marketing Department
+#### The Rolling Scopes School, Mentor of developers
+
+##### November 2022 – currently
+
+___My responsibilities included:___
+I am mentoring four students, doing code reviews, code style reviews,\
+core JS basic interviews (JavaScript/Front-End Angular, React),\
+and weekly meetings.
+
+Skills: TypeScript · JavaScript · English · Git · CSS · CSS3 · SCSS · HTML5 · Object-Oriented Programming (OOP)
+
+********
+        
+#### National Academy of Sciences of Belarus, Head of Marketing Department
 
 ##### August 2019 – currently
 
