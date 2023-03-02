@@ -13,8 +13,9 @@
 GitHub: [https://github.com/igor2000xp](https://github.com/igor2000xp) 
 Mobile: +48 452 414 616\
 e-mail: igor.aniskevich.pol@gmail.com\
+Skype: igor2000xp\
 Discord: igor2000xp\
-[CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
+[CV on Linked-in](https://www.linkedin.com/in/igor-aniskevich/)
 
 ## Summary
 I completed JavaScript/FrontEnd, Angular courses and decided to take the node.JS course and successfully completed this course as well. I got rich experience and a lot of practice.
