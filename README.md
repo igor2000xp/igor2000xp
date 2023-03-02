@@ -31,10 +31,8 @@ WEB-development, JavaScript, TypeScript, HTML5, CSS3, Git, GitHub, WebPack, SCSS
 
 I have a B2 level in English. Currently, live in Warsaw, but I am ready to move all over Poland.
 
-GitHub: https://github.com/igor2000xp
-
-e-mail: igor.aniskevich.pol@gmail.com
-
+GitHub: [https://github.com/igor2000xp](https://github.com/igor2000xp)\
+e-mail: igor.aniskevich.pol@gmail.com\
 Skype: igor2000xp\
 Telegram: @IgorJouii
 
